@@ -3,4 +3,5 @@ This project is intended to determine cricket's best test XI of all time (statis
 
 Check the Jupyter Notebook for complete project
 
-File name - Cricket - Best Men's Test 11 of all time.ipynb
+File name(s) - Cricket - Best Men's Test 11 of all time.ipynb
+OR Jupyter Notebook Project.pdf
